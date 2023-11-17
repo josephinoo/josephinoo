@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Business Needs to Start Using Clojure Today](https://dev.to/josephinoo/why-your-business-needs-to-start-using-clojure-today-4im)
+- [Las 5 Ventajas de Usar Clojure en Tu Startup](https://dev.to/josephinoo/las-5-ventajas-de-usar-clojure-en-tu-startup-4gop)
+- [Ingredientes para ganar el hackaton de la Nasa](https://dev.to/josephinoo/ingredientes-para-ganar-el-hackaton-de-la-nasa-2hbl)
+- [Análisis de sentimientos del Ecuador 2020 COVID-19](https://josephinoo.medium.com/an%C3%A1lisis-de-sentimientos-del-ecuador-2020-covid-19-613643af0097?source=rss-671bef71a15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
