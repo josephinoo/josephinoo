@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DATILMEDIA**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops** **Artificial Intelligence**
 
 - 📫 How to reach me **josephino.avila@gmail.com**
 
