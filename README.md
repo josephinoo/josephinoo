@@ -1,6 +1,6 @@
 Hi, I'm Joseph Avila
 
-🖥️ I've been coding in Python primarily for over 4 years
+🖥️ I've been coding in Python primarily for over 6 years
 
 🔭 I’m currently working on Banco Guayaquil
 
